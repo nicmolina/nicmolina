@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Hi there 👋, my name Nícolas
+#### I am a Front-end developer
+Computer science student at UFSCar; Work with React.js and Bootstrap; Trying Redux and MaterialUI; Love to try new things in css.
+
+Skills: REACT / JS / HTML / CSS
+
 ### Ferramentas e Linguagens
 <div style="display: flex;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
