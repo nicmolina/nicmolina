@@ -5,7 +5,6 @@ Computer science student at UFSCar; Work with React.js and Bootstrap; Trying Red
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
