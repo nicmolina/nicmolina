@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-## Ferramentas e Linguagens
+### Ferramentas e Linguagens
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+
 <!--
 **nicmolina/nicmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
