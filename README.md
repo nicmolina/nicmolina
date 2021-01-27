@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name Nícolas
 #### I am a Front-end developer
 Computer science student at UFSCar; Work with React.js and Bootstrap; Trying Redux and MaterialUI; Love to try new things in css.
