@@ -6,7 +6,7 @@ Computer science student at UFSCar;
 <br/>Trying Redux and MaterialUI; 
 <br/>Love to try new things in css.
 <br/>- 🔭 I’m currently working with Azure and Gitlab, Github just for self-learning.
-Skills: REACT / JS / HTML / CSS
+<br/>Skills: REACT / JS / HTML / CSS
 
 
 
