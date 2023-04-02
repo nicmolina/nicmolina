@@ -1,9 +1,9 @@
 ### Hi there 👋, my name Nícolas
 #### I am a Front-end developer
 
-Computer science student at UFSCar; 
-<br/>Work with React.js and Bootstrap; 
-<br/>Trying Redux and MaterialUI; 
+Former Computer science student at UFSCar; 
+<br/>Work with React.js and Nextjs; 
+<br/>Trying Tailwind; 
 <br/>Love to try new things in css.
 <br/>- 🔭 I’m currently working with BitBucket, Github just for self-learning.
 <br/>Skills: REACT / JS / HTML / CSS
